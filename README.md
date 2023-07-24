@@ -4,7 +4,7 @@
 秒杀项目
 
 #### 软件架构
-软件架构说明
+Springboot Mybatis Redis ...
 
 
 #### 安装教程
